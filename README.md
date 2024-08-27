@@ -1,2 +1,2 @@
 # Navaratri_Sales_Analysis
-Analyze Navaratri Sales data to improve customer experience and sales
+Python Project - Analyze Navaratri Sales data all over India to improve customer experience and sales
